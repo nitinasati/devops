@@ -1,1 +1,1 @@
-This is fileA --version
+This is fileA --version git checkout
